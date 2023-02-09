@@ -1,0 +1,139 @@
+
+#nameField {
+  display: flex;
+  width: auto;
+  gap: 30px;
+}
+#first {
+  display: flex;
+  width: 30%;
+  margin-left: 10%;
+}
+#last {
+  display: flex;
+  width: 30%;
+}
+#emailBox {
+  display: flex;
+  width: auto;
+  gap: 30px;
+}
+#email {
+  display: flex;
+  width: 30%;
+  gap: 30px;
+  margin-left: 10%;
+}
+#sizeBox {
+  display: flex;
+  width: auto;
+  gap: 30px;
+}
+#size {
+  display: flex;
+  width: 31.5%;
+  gap: 30px;
+  margin-left: 12%;
+}
+#quantityBox {
+  display: flex;
+  width: auto;
+  gap: 30px;
+}
+#quantity {
+  display: flex;
+  width: 30%;
+  gap: 15px;
+  margin-left: 8%;
+}
+#deliveryDate {
+  display: flex;
+  width: auto;
+  gap: 30px;
+}
+#start {
+  display: flex;
+  width: 30%;
+  gap: 15px;
+  margin-left: 7.5%;
+}
+#addressFirstLine {
+  display: flex;
+  width: 70%;
+  gap: 15px;
+  margin-left: 22%;
+}
+#addressSecondLine {
+  display: flex;
+  width: 70%;
+  gap: 15px;
+  margin-left: 22%;
+}
+#city {
+  display: flex;
+  width: 30%;
+  gap: 15px;
+  margin-left: 22%;
+}
+#zipCode {
+  display: flex;
+  width: 30%;
+  gap: 15px;
+  margin-left: 22%;
+}
+#address {
+  background-color: rgb(194, 191, 191);
+  width: 100%;
+  height: 60%;
+}
+#wholeBox{
+  width: 50%;
+  border-radius: 10%;
+  display: flex;
+}
+#OrderBox {
+  color: white;
+  font-family: monospace;
+  background-color: rgb(1, 150, 1);
+  width: auto;
+  border-top: 10px;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  border-top: 25px;
+}
+.text{
+  margin-left: 10px;
+}
+.images{
+  width: 30%;
+  display: block;
+  margin-left: 45%;
+}
+.btn {
+  background-color: rgb(1, 150, 1);
+  border: 1px solid transparent;
+  border-radius: 3px;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system,system-ui,"Segoe UI","Liberation Sans",sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1.15385;
+  margin: 0;
+  outline: none;
+  padding: 8px .8em;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: baseline;
+  white-space: nowrap;
+  margin-left: 80%;
+}
+
+
