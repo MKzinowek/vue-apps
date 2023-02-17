@@ -1,0 +1,47 @@
+
+#logo {
+  aspect-ratio: 1 / 1;
+  width: 25vh;
+  background-color: lightgray;
+  border-radius: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+#title {
+  font-size: 4vh;
+}
+#subtitle {
+  font-size: 2vh;
+}
+img {
+  display: inline-block;
+  width: 50%;
+}
+
+.meaningText{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+#subHeader{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+#title2{
+  width: 25vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 40%;
+}
+.img{
+  display: flex;
+  margin-left: 20px;
+}
+
