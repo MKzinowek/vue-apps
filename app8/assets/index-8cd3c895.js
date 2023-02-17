@@ -5364,5 +5364,7 @@ const _sfc_main = {
     };
   }
 };
+const bootstrap = "";
+const bootstrapVue = "";
 const main = "";
 createApp(_sfc_main).mount("#app");
