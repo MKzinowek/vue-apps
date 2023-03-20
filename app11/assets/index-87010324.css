@@ -1,0 +1,36 @@
+
+#container4{
+  outline: 1px solid black;
+  width: 100%;
+  height: fit-content;
+  align-items: center;
+  text-align: center;
+}
+
+#container3{
+  outline: 1px solid black;
+  width: 100%;
+  height: fit-content;
+  align-items: center;
+  text-align: center;
+}
+
+#container2{
+  outline: 1px solid black;
+  width: 100%;
+  height: fit-content;
+  align-items: center;
+  text-align: center;
+}
+
+#container1{
+  outline: 1px solid black;
+  width: 100%;
+  height: fit-content;
+  align-items: center;
+  text-align: center;
+}
+
+#container{
+    text-align: center;
+}
